@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "core-util-is": "^1.0.2",
-    "electron": "^6.0.12",
+    "electron": "^9.1.0",
     "electron-is-dev": "^1.1.0",
     "react-dom": "^16.10.2",
     "react-native-geocoding": "^0.4.0",
